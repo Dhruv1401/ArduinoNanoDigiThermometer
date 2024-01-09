@@ -46,6 +46,7 @@ A simple Arduino Nano project for a digital thermometer with an alarm. This proj
                       |<br>
                   GND -------------- Negative (-) lead of Buzzer<br>
 
+In simpler language : <br>
 
 Connect the SDA pin of the LCD to A4 on the Arduino Nano.<br>
 Connect the SCL pin of the LCD to A5 on the Arduino Nano.<br>
