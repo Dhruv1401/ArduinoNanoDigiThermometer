@@ -27,19 +27,19 @@ A simple Arduino Nano project for a digital thermometer with an alarm. This proj
 
 ## Circuit Diagram
 
-Arduino Nano
-│
-├── SDA (A4) ─────── LCD (I2C)
-│
-├── SCL (A5) ─────── LCD (I2C)
-│
-├── Pin 7 ───────── Positive Lead of Buzzer
-│
-├── GND ────────── Negative Lead of Buzzer
-│
-├── Pin 2 ───────── DS18B20 Temperature Sensor
-│
-└── Power Supply ── Provide power to the Arduino Nano
+Arduino Nano<Br>
+│<Br>
+├── SDA (A4) ─────── LCD (I2C)<Br>
+│<Br>
+├── SCL (A5) ─────── LCD (I2C)<Br>
+│<Br>
+├── Pin 7 ───────── Positive Lead of Buzzer<Br>
+│<Br>
+├── GND ────────── Negative Lead of Buzzer<Br>
+│<Br>
+├── Pin 2 ───────── DS18B20 Temperature Sensor<Br>
+│<Br>
+└── Power Supply ── Provide power to the Arduino Nano<Br>
 
 ## Usage
 
